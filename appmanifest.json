@@ -1,6 +1,6 @@
 ﻿{
-	"name": "New project",
-	"short_name": "New project",
+	"name": "Tin Nhắn Tiếng Vệt",
+	"short_name": "Tin Nhắn Tiếng Vệt",
 	"start_url": "index.html",
 	"display": "fullscreen",
 	"orientation": "landscape",
